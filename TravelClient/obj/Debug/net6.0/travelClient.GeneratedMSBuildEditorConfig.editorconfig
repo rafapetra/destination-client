@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/gregoryramsower/Desktop/Epicodus/travelClient.Solution/travelClient
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/gregoryramsower/Desktop/Epicodus/travelClient.Solution/TravelClient/Views/Destinations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVzdGluYXRpb25zL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gregoryramsower/Desktop/Epicodus/travelClient.Solution/TravelClient/Views/Destinations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVzdGluYXRpb25zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/gregoryramsower/Desktop/Epicodus/travelClient.Solution/TravelClient/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

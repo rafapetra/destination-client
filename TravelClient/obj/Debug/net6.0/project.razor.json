@@ -16323,8 +16323,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/gregoryramsower/Desktop/Epicodus/travelClient.Solution/travelClient/Views/Destinations/Index.cshtml",
+      "TargetPath": "Views\\Destinations\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/gregoryramsower/Desktop/Epicodus/travelClient.Solution/travelClient/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/gregoryramsower/Desktop/Epicodus/travelClient.Solution/travelClient/Views/Destinations/Details.cshtml",
+      "TargetPath": "Views\\Destinations\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
