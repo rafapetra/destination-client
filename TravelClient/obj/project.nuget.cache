@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1PET4rtO9u+yJmhe2Qm3a60Qo0rb/QRcXcOR6B6fRlAFc6wuuJep32ZjlFCDxMia5kO//EpA9rT2nXxilytEfw==",
+  "success": true,
+  "projectFilePath": "/Users/gregoryramsower/Desktop/Epicodus/travelClient.Solution/travelClient/travelClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/gregoryramsower/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/gregoryramsower/.nuget/packages/restsharp/108.0.3/restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
